@@ -1,4 +1,1 @@
 # ScriptHomework
-
-## hi
-aababa
